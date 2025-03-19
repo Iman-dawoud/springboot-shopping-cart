@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dailycodework</groupId>
-	<artifactId>dream-shops</artifactId>
+	<artifactId>shopping-cart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dream-shops</name>
 	<description>Demo project for Spring Boot</description>
